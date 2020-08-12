@@ -1,0 +1,12 @@
+This document provides a library of tips, functions, code snippets, and concepts that may be useful to others in the 2020 Boot Camp. 
+
+Each Entry in the library should contain 4 main components: 1.  A descriptive title, 2. a general classifiction (R code, stat method, data manipulation method, etc.), 
+3. a brief description, and 4. an example. 
+
+
+Title: Basics of Using GitHub
+Class: data manipulation and storage
+Description: Github provides a central repository for storing data. It also offers a structured appoach to collaboratively work on a document. One person "owns" the 
+document in a repository and provides access to others. Others can "committ" changes to the document. Once a "committ" of changes are made, that person makes opens a
+"pull request". With the "pull request", the owner reviews the changes and merges changes with the original document. 
+Example:

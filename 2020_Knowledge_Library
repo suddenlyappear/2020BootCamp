@@ -1,4 +1,4 @@
-THIS document provides a library of tips, functions, code snippets, and concepts that may be useful to others in the 2020 Boot Camp. 
+This document provides a library of tips, functions, code snippets, and concepts that may be useful to others in the 2020 Boot Camp. 
 
 Each Entry in the library should contain 4 main components: 1.  A descriptive title, 2. a general classifiction (R code, stat method, data manipulation method, etc.), 
 3. a brief description, and 4. an example. 
